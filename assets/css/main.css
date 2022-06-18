@@ -1249,10 +1249,11 @@ img{
     margin-bottom:-150px
 }
 header{
-    min-height:50px;
+    min-height:40px;
     padding:0;
     margin:0;
     margin-top:20px;
+    margin-bottom: 20px;
     -webkit-transition:all ease-in-out .4s;
     transition:all ease-in-out .4s
 }
@@ -1265,7 +1266,7 @@ header .logo{
 }
 header .logo img{
     float:left;
-    max-width:160px;
+    max-width:80px;
     margin-right:3px
 }
 header ul.menu li a.nav-link{
@@ -2691,7 +2692,10 @@ textarea.form-control{
     font-size:16px
 }
 /*-------------------------------------------------------------- # Team --------------------------------------------------------------*/
- .team .member {
+.team{
+    margin-top: 50px;
+} 
+.team .member {
      margin-bottom: 20px;
      overflow: hidden;
      border-radius: 5px;
