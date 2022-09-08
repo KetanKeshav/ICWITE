@@ -21,7 +21,7 @@
                     </li>
                 -->
                 <li class="nav-item">
-                    <a class="nav-link " href="OC.php">COMMITTEE</a>
+                    <a class="nav-link " href="oc.php">COMMITTEE</a>
                 </li>
                 <!--
                     <li class="nav-item">

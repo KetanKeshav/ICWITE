@@ -111,7 +111,7 @@ Buy Tickets Now
             </div>
             <div class="row justify-content-center" style="text-align: justify">
                 <p>
-                    International Conference on Women in Innovation, Technology and Entrepreneurship, <b>ICWITE</b> is a flagship conference 
+                    International Conference on Women in Innovation, Technology and Entrepreneurship, <b>ICWITE</b> is a flagship conference
                     of the<b>IEEE WIE AG</b>, Bangalore Section, India. The very first edition of ICWITE will be held
                     on <b>1st to 3rd December 2022</b>. The conference will feature plenary talks, tutorials, workshops and
                     invited papers by distinguished researchers and technologists as well as contributed papers from academics and
@@ -544,7 +544,7 @@ tickets
             </div>
 
             <h5><b>General Chair:</b></h5>
-            Dr. Kumudhini Ravindra, 2022 Chair, IEEE WIE Bangalore Section AG, Principal Partner - Strategic Innovation, Standards & Research, Innomantra Consulting 
+            Dr. Kumudhini Ravindra, 2022 Chair, IEEE WIE Bangalore Section AG, Principal Partner - Strategic Innovation, Standards & Research, Innomantra Consulting
             <br>
             Ms. Anandi Giridharan, Vice Chair Bangalore Section SIGHT, Principal Research Scientist. Department of Electrical Communication Engineering, IISc, Bangalore
 
@@ -556,13 +556,13 @@ tickets
 
             <h5><b>Organizing Committee:</b></h5>
             Ms. Parvathi Rachakonda, Senior Manager, IBM, Secretary, WIE Bangalore AG<br>
-            Dr. Vijayalakshmi K, 	Professor, BMS College of Engineering<br>
+            Dr. Vijayalakshmi K, Professor, BMS College of Engineering<br>
             Dr. Veena Desai, Professor, Dept. of ECE, Gogte Institute of Technology, Execom, WIE Bangalore AG<br>
             Dr. Bindhu Thomas, Professor and Head (Electronics and Communication Engineering), Vidya Vikas Institute of
             Engineering and Technology, Execom, WIE Bangalore AG<br>
             Dr. Deepa Kaliyaperumal, Professor, Amrita School of Engineering, Bangalore, Joint Secretary, WIE Bangalore AG<br>
             Dr. Poornalatha G, Associate Professor Senior Scale MIT Manipal, Execom, WIE Bangalore AG<br>
-            
+
             <br>
             <br>
             <h5><b>Steering Committee:</b></h5>
@@ -598,7 +598,7 @@ tickets
             Dr. Ashwini Appaji, Principal, YP Affinity Group Coordinator @ IEEE Region 10 Young Professionals<br>
             Dr. Usha Rani K R, Associate Professor, RV College of Engineering <br>
             Dr. Pushpa C N, Associate Professor (CSE), UVCE<br>
-            Dr. Samiksha Shukla, 	Associate Professor, Christ University<br>
+            Dr. Samiksha Shukla, Associate Professor, Christ University<br>
             Dr. Parkavi. A, Associate Professor (CSE), M S Ramaiah Institute of Technology<br>
             Dr. Cifha Crecil Saldanha, Assistant Professor (Grade III), NMAMIT Nitte<br>
             Ms. Ashwini V R, Assistant Professor, CEC, Vice Chair, WIE Bangalore AG<br>
@@ -1330,8 +1330,8 @@ tickets
     </section> -->
     <!-- #contact -->
 
-    <?php include 'includes/footer.php';?>
-    
+    <?php include 'includes/footer.php'; ?>
+
 </body>
 
 </html>
