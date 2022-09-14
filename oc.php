@@ -587,236 +587,431 @@
             <br>
 
             <h4>International Advisory Committee Member</h4>
-            TBD
 
-            <!-- <div class = "row">
-			
-			
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/SN.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://www.linkedin.com/in/dr-sn-singh-394bb720"><i class="ion-social-linkedin"></i></a>
+            <div class="row">
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/OC/dummy.png" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href="#"><i class="ion-social-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Ms. Jenifer P. Castillo Rodriguez </h4>
+                            <h7>(R9), IEEE WIE Committee Chair 2021-2022</h7>
+                            <div class="text-center">
+                                <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal12">Profile</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
-              <div class="member-info">
-                <h4>Prof. S N Singh</h4>
-                <h7>IIT, Kanpur</h7>
-                <div class="text-center">
-                  <a href="https://www.linkedin.com/in/dr-sn-singh-394bb720" target="blank"
-                    class="btn btn-primary btn-rounded mt30">Profile</a>
+
+                <!-- Modal -->
+                <div class="modal fade" id="Modal12" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                                <h4 class="modal-title" id="myModalLabel">Ms. Jenifer P. Castillo Rodriguez </h4>
+                            </div>
+                            <div class="modal-body">
+                                <center>
+                                    <img src="assets/img/OC/dummy.png" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                                    <h3 class="media-heading mt10"></h3>
+                                </center>
+                                <hr>
+                                <center>
+                                    <p class="text-left"><strong>Bio: </strong><br>
+                                        Bio to be added soon.    
+                                    </p>
+                                    <br>
+                                </center>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/OC/dummy.png" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href="#"><i class="ion-social-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Ms. Emi Yano </h4>
+                            <h7>IEEE Region 10 Women in Engineering Committee Chair 2019-2022</h7>
+                            <div class="text-center">
+                                <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal13">Profile</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal -->
+                <div class="modal fade" id="Modal13" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                                <h4 class="modal-title" id="myModalLabel">Ms. Emi Yano </h4>
+                            </div>
+                            <div class="modal-body">
+                                <center>
+                                    <img src="assets/img/OC/dummy.png" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                                    <h3 class="media-heading mt10"></h3>
+                                </center>
+                                <hr>
+                                <center>
+                                    <p class="text-left"><strong>Bio: </strong><br>
+                                        Bio to be added soon.
+                                    </p>
+                                        <br>
+                                </center>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/OC/Celia.jpeg" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href="#"><i class="ion-social-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Prof. Celia Shahnaz</h4>
+                            <h7>Bangaladesh University of Engineering and Technology, IEEE WIE Committee Chair-Elect 2022</h7>
+                            <div class="text-center">
+                                <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal14">Profile</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal -->
+                <div class="modal fade" id="Modal14" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                                <h4 class="modal-title" id="myModalLabel">Prof. Celia Shahnaz</h4>
+                            </div>
+                            <div class="modal-body">
+                                <center>
+                                    <img src="assets/img/OC/Celia.jpeg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                                    <h3 class="media-heading mt10"></h3>
+                                </center>
+                                <hr>
+                                <center>
+                                    <p class="text-left"><strong>Bio: </strong><br>
+                                        Bio to be added soon.
+                                    </p>
+                                    <br>
+                                </center>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/OC/Suresh.jpeg" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href="#"><i class="ion-social-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Dr. Suresh Nair</h4>
+                            <h7>Chair, IEEE India Council Chair</h7>
+                            <div class="text-center">
+                                <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal15">Profile</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal -->
+                <div class="modal fade" id="Modal15" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                                <h4 class="modal-title" id="myModalLabel">Dr. Suresh Nair</h4>
+                            </div>
+                            <div class="modal-body">
+                                <center>
+                                    <img src="assets/img/OC/Suresh.jpeg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                                    <h3 class="media-heading mt10"></h3>
+                                </center>
+                                <hr>
+                                <center>
+                                    <p class="text-left"><strong>Bio: </strong><br>
+                                        Bio to be added soon.   
+                                    </p>
+                                    <br>
+                                </center>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
-          </div>
-          
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/Suresh.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://www.linkedin.com/in/suresh-nair-5b708123/"><i class="ion-social-linkedin"></i></a>
+            <div class="row">
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/OC/Debabrata.jpeg" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href="#"><i class="ion-social-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Prof. Debabrata Das</h4>
+                            <h7>Chair, IEEE India Council Chair, Director IIIT-B, 2017 Chair, IEEE Bangalore Section</h7>
+                            <div class="text-center">
+                                <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal12">Profile</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr. Suresh Nair</h4>
-                <h7>Chair, IEEE India Council, Founder & CEO, Design Alpha</h7>
-                <div class="text-center">
-                  <a href="https://www.linkedin.com/in/suresh-nair-5b708123/" target="blank"
-                    class="btn btn-primary btn-rounded mt30">Profile</a>
+
+                <!-- Modal -->
+                <div class="modal fade" id="Modal12" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                                <h4 class="modal-title" id="myModalLabel">Prof. Debabrata Das</h4>
+                            </div>
+                            <div class="modal-body">
+                                <center>
+                                    <img src="assets/img/OC/Debabrata.jpeg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                                    <h3 class="media-heading mt10"></h3>
+                                </center>
+                                <hr>
+                                <center>
+                                    <p class="text-left"><strong>Bio: </strong><br>
+                                        Bio to be added soon.       
+                                    </p>
+                                    <br>
+                                </center>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/OC/dummy.png" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href="#"><i class="ion-social-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Dr. Ramalatha Marimuthu</h4>
+                            <h7>Director, iExplore Foundation for Sustainability Development & Ombudsman, IEEE Computer Society 2022</h7>
+                            <div class="text-center">
+                                <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal13">Profile</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal -->
+                <div class="modal fade" id="Modal13" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                                <h4 class="modal-title" id="myModalLabel">Dr. Ramalatha Marimuthu</h4>
+                            </div>
+                            <div class="modal-body">
+                                <center>
+                                    <img src="assets/img/OC/dummy.png" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                                    <h3 class="media-heading mt10"></h3>
+                                </center>
+                                <hr>
+                                <center>
+                                    <p class="text-left"><strong>Bio: </strong><br>
+                                        Bio to be added soon.   
+                                    </p>
+                                    <br>
+                                </center>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/OC/Puneet.jpeg" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href="#"><i class="ion-social-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Shri. Puneet Mishra</h4>
+                            <h7>Past Chair 2020, IEEE Bangalore Section</h7>
+                            <div class="text-center">
+                                <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal14">Profile</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal -->
+                <div class="modal fade" id="Modal14" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                                <h4 class="modal-title" id="myModalLabel">Shri. Puneet Mishra</h4>
+                            </div>
+                            <div class="modal-body">
+                                <center>
+                                    <img src="assets/img/OC/Puneet.jpeg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                                    <h3 class="media-heading mt10"></h3>
+                                </center>
+                                <hr>
+                                <center>
+                                    <p class="text-left"><strong>Bio: </strong><br>
+                                        Bio to be added soon.
+                                    </p>
+                                    <br>
+                                </center>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/OC/Bindu.jpg" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href="#"><i class="ion-social-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Shri. Bindhumadhava</h4>
+                            <h7>Past Chair 2021, IEEE Bangalore Section</h7>
+                            <div class="text-center">
+                                <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal15">Profile</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal -->
+                <div class="modal fade" id="Modal15" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                                <h4 class="modal-title" id="myModalLabel">Shri. Bindhumadhava</h4>
+                            </div>
+                            <div class="modal-body">
+                                <center>
+                                    <img src="assets/img/OC/Bindu.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                                    <h3 class="media-heading mt10"></h3>
+                                </center>
+                                <hr>
+                                <center>
+                                    <p class="text-left"><strong>Bio: </strong><br>
+                                        Bio to be added soon.
+                                    </p>
+                                    <br>
+                                </center>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
-          </div>
-          
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/Debatosh.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://www.linkedin.com/in/debatosh-guha-2b0a3615/"><i class="ion-social-linkedin"></i></a>
+            <div class="row">
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/OC/dummy.png" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href="#"><i class="ion-social-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Dr. Ramakrishnan Kappagantu</h4>
+                            <h7>IEEE R10 Nominations and Advisory Committee</h7>
+                            <div class="text-center">
+                                <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal12">Profile</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
-              <div class="member-info">
-                <h4>Prof. Debatosh Guha</h4>
-                <h7>Institute of Radio Physics & Electronics, University of Calcutta</h7>
-                <div class="text-center">
-                  <a href="https://www.linkedin.com/in/debatosh-guha-2b0a3615/" target="blank"
-                    class="btn btn-primary btn-rounded mt30">Profile</a>
+
+                <!-- Modal -->
+                <div class="modal fade" id="Modal12" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                                <h4 class="modal-title" id="myModalLabel">Dr. Ramakrishnan Kappagantu</h4>
+                            </div>
+                            <div class="modal-body">
+                                <center>
+                                    <img src="assets/img/OC/dummy.png" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                                    <h3 class="media-heading mt10"></h3>
+                                </center>
+                                <hr>
+                                <center>
+                                    <p class="text-left"><strong>Bio: </strong><br>
+                                        Bio to be added soon.    
+                                    </p>
+                                    <br>
+                                </center>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
+
+
             </div>
-          </div>
-          
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/Celia.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://www.linkedin.com/in/celia-shahnaz-888ba6130/"><i class="ion-social-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Prof. Celia Shahnaz, Bangladesh University of Engineering and Technology</h4>
-                <h7>2021 Chair, IEEE WiE</h7>
-                <div class="text-center">
-                  <a href="https://www.linkedin.com/in/celia-shahnaz-888ba6130/" target="blank"
-                    class="btn btn-primary btn-rounded mt30">Profile</a>
-                </div>
-              </div>
-            </div>
-          </div>
-						
-		    </div>
-		
-		
-        <div class="row">
-        
-        
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/CJ.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://www.linkedin.com/in/cjreddy01/"><i class="ion-social-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr. C J Reddy, President AMTA, VP, Electronics-Americas</h4>
-                <h7>IIT, Kanpur</h7>
-                <div class="text-center">
-                  <a href="https://www.linkedin.com/in/cjreddy01/" target="blank"
-                    class="btn btn-primary btn-rounded mt30">Profile</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/Ramakrishna.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://www.linkedin.com/in/ramakrishnakappagantu/"><i class="ion-social-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr. Ramakrishna Kappagantu</h4>
-                <h7>IEEE R10 Nominations & Advisory Committee</h7>
-                <div class="text-center">
-                  <a href="https://www.linkedin.com/in/ramakrishnakappagantu/" target="blank"
-                    class="btn btn-primary btn-rounded mt30">Profile</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/Goutam.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://www.linkedin.com/in/goutam-chattopadhyay-b4073a7/"><i class="ion-social-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr. Goutam Chattopadhyay</h4>
-                <h7>Senior Reserach Scientist, Caltech/JLP/NASA</h7>
-                <div class="text-center">
-                  <a href="https://www.linkedin.com/in/goutam-chattopadhyay-b4073a7/" target="blank"
-                    class="btn btn-primary btn-rounded mt30">Profile</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/Gian.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="ion-social-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Prof. Gianfranco Rizzo</h4>
-                <h7>University of Salerno, Italy</h7>
-                <div class="text-center">
-                  <a href="" target="blank" class="btn btn-primary btn-rounded mt30">Profile</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        
-        
-        </div>
-		
-        <div class="row">
-        
-        
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/Miguel.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/lopez-benitez/"><i
-                      class="ion-social-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr Miguel López-Benítez</h4>
-                <h7>Senior Lecturer (Associate Professor), Department of Electrical Engineering and Electronics, University of
-                  Liverpool, UK</h7>
-                <div class="text-center">
-                  <a href="https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/lopez-benitez/"
-                    target="blank" class="btn btn-primary btn-rounded mt30">Profile</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/Julien.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://www.gla.ac.uk/schools/engineering/staff/julienlekernec/"><i
-                      class="ion-social-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr Julien Le Kernec</h4>
-                <h7>University of Glasgow, University Avenue, James Watt Building South, School of Engineering, Glasgow, United
-                  Kingdom</h7>
-                <div class="text-center">
-                  <a href="https://www.gla.ac.uk/schools/engineering/staff/julienlekernec/" target="blank"
-                    class="btn btn-primary btn-rounded mt30">Profile</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/OC/Geovanni.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://www.upf.edu/web/giovanni-geraci"><i class="ion-social-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Geovanni Geraci</h4>
-                <h7>Assistant Professor, UPF Barcelona</h7>
-                <div class="text-center">
-                  <a href="https://www.upf.edu/web/giovanni-geraci" target="blank"
-                    class="btn btn-primary btn-rounded mt30">Profile</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        
-        </div> -->
 
             <br>
 
