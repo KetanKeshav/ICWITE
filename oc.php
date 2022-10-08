@@ -1419,6 +1419,25 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                        <div class="member">
+                            <div class="member-img">
+                                <img src="assets/img/OC/Prateeti.jpeg" class="img-fluid" alt="">
+                                <div class="social">
+                                    <a href=" https://www.linkedin.com/in/prateeti-mohapatra-029b801a/" target="_blank"><i class="ion-social-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Ms. Prateeti Mohapatra</h4>
+                                <h7>Manager and Senior Research Engineer IBM</h7>
+                                <div class="text-center">
+                                    <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal26">Profile</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
                 <!-- Modal -->
@@ -1705,23 +1724,6 @@
 
             <div class="row">
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/OC/Prateeti.jpeg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=" https://www.linkedin.com/in/prateeti-mohapatra-029b801a/" target="_blank"><i class="ion-social-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Ms. Prateeti Mohapatra</h4>
-                            <h7>Manager and Senior Research Engineer IBM</h7>
-                            <div class="text-center">
-                                <a href="" class="btn btn-primary btn-rounded mt30" data-toggle="modal" data-target="#Modal26">Profile</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
                 <!-- Modal -->
                 <div class="modal fade" id="Modal26" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
