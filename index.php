@@ -647,16 +647,16 @@ tickets
                 </h3>
                 <div>
                     <h4>EARLY SUBMISSION ADVANTAGE:</h4>
-                    <p>Huge Discount on Registration Fee to Authors who will submit their paper early and will not wait for Last date of submission. This discount is available on all categories of Authors.</p>
+                    <p>Huge Discount on Registration Fee to Authors who submit their paper and register for the event. This discount is available on all categories of Authors.</p>
                     <table>
 
                         <tr>
-                            <th>Paper Submission Date</th>
+                            <th>Author Discount</th>
                             <th>Discount on Registration Fee (Early Bird & Regular)</th>
                         </tr>
 
                         <tr>
-                            <td>Till September 30, 2022</td>
+                            <td>Till 1<sup>st</sup> November 2022</td>
                             <td>40%</td>
                         </tr>
 

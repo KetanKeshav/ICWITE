@@ -51,6 +51,24 @@
                         <li>Women & SIGHT</li>
                     </ul>
             </h5>
+            <br>
+            <h5>
+            Paper/ Poster presentations will be made in topics across the following edge technologies, but not limited to:
+                    <br><br>
+            <ul style="text-align: left">
+                <li>AI/ ML, Blockchain</li>
+                <li>Computer Networks & Cybersecurity </li>
+                <li>Cloud, Big Data & 5G Communications </li>
+                <li>Quantum Computing</li>
+                <li>Devices, Materials & Processing </li>
+                <li>IOT, Sensor Technologies & Wearables </li>
+                <li>Digital Reality - AR/VR, Digital Twins </li>
+                <li>Smart Grids & Renewable Energy </li>
+                <li>Robotics, Control & Automation </li>
+                <li>Smart Cities & Infrastructure Technologies </li>
+                <li>FinTech, EduTech, AgriTech - Applications for Humanitarian Technology </li>
+            </ul>
+            </h5>
 
             <!-- <div class="row">
                 <div class="col-sm-4 col-md-6" style="border: 0px 5px">

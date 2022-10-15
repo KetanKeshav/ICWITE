@@ -134,17 +134,16 @@
             <hr>
             <div class="row justify" style="text-align: justify">
                 <h3>EARLY SUBMISSION ADVANTAGE</h3>
-                <p>HHuge Discount on Registration Fee to Authors who will submit their paper early and will not 
-                    wait for Last date of submission. This discount is available on all categories of Authors.</p>
+                <p>Huge Discount on Registration Fee to Authors who submit their paper and register for the event. This discount is available on all categories of Authors.</p>
 
                 <table>
                     <tr>
-                        <th>Paper Submission Date</th>
+                        <th>Author Discount</th>
                         <th>Discount on Registration Fee (Early Bird & Regular)</th>
                     </tr>
 
                     <tr>
-                        <td>Till September 30, 2022</td>
+                        <td>Till 1<sup>st</sup> November 2022</td>
                         <td>40%</td>
                     </tr>
 
@@ -192,11 +191,15 @@
                 <h4>PAPER & POSTER UPLOAD:</h4>
                 <br>
                 <p>
-                    All papers must be submitted in PDF or as a Microsoft Word Document via Microsoft Conference Management Toolkit: CMT
+                    All papers must be submitted in PDF or as a Microsoft Word Document via Microsoft Conference Management Toolkit: <a style="color:darkblue;" href="https://cmt3.research.microsoft.com/IEEEICWITE2022/">CMT</a>
                     <br><br>
-                    The submitting authors may be required to create a Microsoft Conference Management Toolkit account before uploading the paper (if the submitting author does not have a Microsoft Conference Management Toolkit account). While uploading the paper, the authors should provide the title of the paper, an abstract of no more than 250 words and keywords in the respective text boxes in the paper submission page.
+                    <b>(Note: Authors please clear your browser cache and login to CMT before uploading your papers.)</b>
                     <br><br>
-                    Please note that all accepted papers that are registered and presented in the conference will be sent for possible inclusion in IEEE Xplore. The authors must agree to the IEEE copyright conditions and sign the IEEE copyright form as part of the online submission process. All submitted papers will be peer reviewed by the Technical Progam Committees (TPC).
+                    The submitting authors may be required to create a Microsoft Conference Management Toolkit account before uploading the paper (if the submitting author does not have a Microsoft Conference Management Toolkit account). 
+                    <br><br>
+                    While uploading the paper, the authors should provide the title of the paper, a long abstract of no more than 1000 words and keywords in the respective text boxes in the paper submission page.
+                    <br><br>
+                    The long abstracts of all accepted & registered papers will be available on IEEE Xplore. Camera ready papers that meet the quality standards of IEEE will be included in IEEE Xplore. 
                 </p>
                 <h4>TYPES OF PRESENTATION AT THE CONFERENCE:</h4>
                 <br>
@@ -291,16 +294,16 @@
                 </h3>
                 <div>
                     <h4>EARLY SUBMISSION ADVANTAGE:</h4>
-                    <p>Huge Discount on Registration Fee to Authors who will submit their paper early and will not wait for Last date of submission. This discount is available on all categories of Authors.</p>
+                    <p>Huge Discount on Registration Fee to Authors who submit their paper and register for the event. This discount is available on all categories of Authors.</p>
                     <table>
 
                         <tr>
-                            <th>Paper Submission Date</th>
+                            <th>Author Discount</th>
                             <th>Discount on Registration Fee (Early Bird & Regular)</th>
                         </tr>
 
                         <tr>
-                            <td>Till September 30, 2022</td>
+                            <td>Till 1<sup>st</sup> November 2022</td>
                             <td>40%</td>
                         </tr>
 
