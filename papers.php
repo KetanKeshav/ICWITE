@@ -235,11 +235,11 @@
                 </tr>
                 <tr>
                     <td>Deadline for submission of long abstracts:</td>
-                    <td>30th September 2022</td>
+                    <td>1st November 2022</td>
                 </tr>
                 <tr>
                     <td>Notification of acceptance:</td>
-                    <td>15th October, 2022</td>
+                    <td>10th November 2022</td>
                 </tr>
                 <tr>
                     <td>Submission of Camera ready papers & posters:</td>
