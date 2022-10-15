@@ -230,20 +230,20 @@
 
             <table>
                 <tr>
-                    <td>Paper & Poster Abstract Submission starts on:</td>
+                    <td>Paper Submission Open:</td>
                     <td>15th August 2022</td>
                 </tr>
                 <tr>
-                    <td>Deadline for submission of long abstracts:</td>
-                    <td>1st November 2022</td>
+                    <td>Long Abstract Submission Due Date:</td>
+                    <td>1st November 2022 <b>(LAST CALL)</td>
                 </tr>
                 <tr>
-                    <td>Notification of acceptance:</td>
+                    <td>Paper Acceptance Notification:</td>
                     <td>10th November 2022</td>
                 </tr>
                 <tr>
-                    <td>Submission of Camera ready papers & posters:</td>
-                    <td>15th November, 2022</td>
+                    <td>Camera-ready Paper Due:</td>
+                    <td>25th November, 2022</td>
                 </tr>
 
             </table>
@@ -255,23 +255,23 @@
         <div class="container">
             <div class="section_title mb50">
                 <h3 class="title">
-                IMPORTANT DATES FOR BEST THESIS, TUTORIALS & KEYNOTES
+                IMPORTANT DATES FOR DISSERTATION SYMPOSIUM
                 </h3>
             </div>
 
 
             <table>
                 <tr>
-                    <td>Thesis, Tutorial & Keynote Submission starts on:</td>
+                    <td>Dissertation Long Abstract Submission starts on:</td>
                     <td>15th August 2022</td>
                 </tr>
                 <tr>
-                    <td>Deadline for submission of Thesis, Tutorial & Keynote:</td>
-                    <td>30th September 2022</td>
+                    <td>Deadline for submission of Dissertation Abstracts:</td>
+                    <td>10th November 2022</td>
                 </tr>
                 <tr>
                     <td>Notification of acceptance:</td>
-                    <td>15th October, 2022</td>
+                    <td>25th November, 2022</td>
                 </tr>
                 
 
