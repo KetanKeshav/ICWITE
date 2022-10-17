@@ -191,7 +191,7 @@
                 <h4>PAPER & POSTER UPLOAD:</h4>
                 <br>
                 <p>
-                    All papers must be submitted in PDF or as a Microsoft Word Document via Microsoft Conference Management Toolkit: <a style="color:darkblue;" href="https://cmt3.research.microsoft.com/IEEEICWITE2022/">CMT</a>
+                    All papers must be submitted in PDF or as a Microsoft Word Document via Microsoft Conference Management Toolkit: <a style="color:darkblue;" href="https://cmt3.research.microsoft.com/ICWITE2022/">CMT</a>
                     <br><br>
                     <b>(Note: Authors please clear your browser cache and login to CMT before uploading your papers.)</b>
                     <br><br>
@@ -216,7 +216,7 @@
             <br>
             <center>
                 <div class="col-md-3 text-md-right text-center">
-                    <a href="https://cmt3.research.microsoft.com/IEEEICWITE2022/" target="blank" class="btn btn-primary btn-rounded mt30">Submit Your Paper</a>
+                    <a href="https://cmt3.research.microsoft.com/ICWITE2022/" target="blank" class="btn btn-primary btn-rounded mt30">Submit Your Paper</a>
                 </div>
             </center>
         </div>

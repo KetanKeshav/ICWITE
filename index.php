@@ -527,7 +527,7 @@ tickets
             <br>
             <center>
                 <div class="col-md-3 text-md-right text-center">
-                    <a href="https://cmt3.research.microsoft.com/IEEEICWITE2022/" target="blank" class="btn btn-primary btn-rounded mt30">Submit Your Paper</a>
+                    <a href="https://cmt3.research.microsoft.com/ICWITE2022/" target="blank" class="btn btn-primary btn-rounded mt30">Submit Your Paper</a>
                 </div>
             </center>
 
