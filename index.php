@@ -891,6 +891,14 @@ tickets
                     Sponsorship
                 </h3>
             </div>
+            <h3 class="title">
+                Our Sponsors
+            </h3>
+            <div class="row mb-3 mt-3">
+            <div class="col-md-3 col-12">
+                <a href="https://www.hpe.com/in/en/home.html"><img class="img-fluid" src="assets/img/sponsors/hpe.png" alt="sponsors"></a>
+            </div>
+            </div>
             <div class="row justify-content-center" style="text-align: justify">
                 <p><b>We invite you all to be part of the First Edition of IEEE ICWITE 2022; For further inquiries on
                         Sponsorships, please contact us at: icwite2022@ieeebangalore.org</b></p>
@@ -1322,7 +1330,7 @@ tickets
                         <div class="validation"></div>
                     </div>
                     <div class="text-center">
-                        <input type="submit" class="btn btn-primary btn-rounded mt30" value ="Send Message">
+                        <input type="submit" class="btn btn-primary btn-rounded mt30" value="Send Message">
                     </div>
                 </form>
             </div>
