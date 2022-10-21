@@ -82,9 +82,9 @@
                         </h4>
                     </div>
                     <div class="footer_box_body">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="index.html#aboutus">About-Us</a></li>
-                        <li><a href="index.html#registrations">Registrations</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="index.php#aboutus">About-Us</a></li>
+                        <li><a href="index.php#registrations">Registrations</a></li>
                     </div>
                 </div>
             </div>
