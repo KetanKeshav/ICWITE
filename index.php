@@ -102,15 +102,13 @@ Buy Tickets Now
         </div>
     </section>
 
-    <section id="sponsorship" class="pb100">
-        <div class="container">
+    <section class="pb100">
             <h3 class="title">
                 Our Sponsors
             </h3>
             <div class="col-md-3 col-12">
                 <a href="https://www.hpe.com/in/en/home.html"><img class="img-fluid" src="assets/img/sponsors/hpe.png" alt="sponsors"></a>
             </div>
-        </div>
     </section>
 
     <section id="aboutus" class="pt100 pb100">
