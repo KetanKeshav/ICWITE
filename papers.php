@@ -238,11 +238,11 @@
                 </tr>
                 <tr>
                     <td>Long Abstract Submission Due Date:</td>
-                    <td>1st November 2022 <b>(LAST CALL)</td>
+                    <td>10th November 2022 <b>(LAST CALL)</td>
                 </tr>
                 <tr>
                     <td>Paper Acceptance Notification:</td>
-                    <td>10th November 2022</td>
+                    <td>15th November 2022</td>
                 </tr>
                 <tr>
                     <td>Camera-ready Paper Due:</td>
