@@ -499,15 +499,15 @@ tickets
                 </tr>
                 <tr>
                     <td>Deadline for submission of long abstracts:</td>
-                    <td>1st November 2022</td>
-                </tr>
-                <tr>
-                    <td>Notification of acceptance:</td>
                     <td>10th November 2022</td>
                 </tr>
                 <tr>
+                    <td>Notification of acceptance:</td>
+                    <td>15th November 2022</td>
+                </tr>
+                <tr>
                     <td>Submission of Camera ready papers & posters:</td>
-                    <td>15th November, 2022</td>
+                    <td>25th November, 2022</td>
                 </tr>
 
             </table>
