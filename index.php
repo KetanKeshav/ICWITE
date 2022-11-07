@@ -702,7 +702,7 @@ tickets
                         <div class="price_features">
                         </div>
                         <div class="price_footer">
-                            <!--<a href="#" class="btn btn-primary btn-rounded">Register</a>-->
+                            <a href="https://in.explara.com/e/ieee-icwite-2022" class="btn btn-primary btn-rounded">Register</a>
                         </div>
                     </div>
                 </div>
@@ -729,7 +729,7 @@ tickets
                         <div class="price_features">
                         </div>
                         <div class="price_footer">
-                            <!--<a href="#" class="btn btn-primary btn-rounded">Register</a>-->
+                            <a href="https://in.explara.com/e/ieee-icwite-2022" class="btn btn-primary btn-rounded">Register</a>
                         </div>
                     </div>
                 </div>
@@ -753,7 +753,7 @@ tickets
                         <div class="price_features">
                         </div>
                         <div class="price_footer">
-                            <!--<a href="#" class="btn btn-primary btn-rounded">Register</a>-->
+                            <a href="https://in.explara.com/e/ieee-icwite-2022" class="btn btn-primary btn-rounded">Register</a>
                         </div>
                     </div>
                 </div>
@@ -777,7 +777,7 @@ tickets
                         <div class="price_features">
                         </div>
                         <div class="price_footer">
-                            <!--<a href="#" class="btn btn-primary btn-rounded">Register</a>-->
+                            <a href="https://in.explara.com/e/ieee-icwite-2022" class="btn btn-primary btn-rounded">Register</a>
                         </div>
                     </div>
                 </div>
@@ -806,7 +806,7 @@ tickets
                             <div class="price_features">
                             </div>
                             <div class="price_footer">
-                                <!--<a href="#" class="btn btn-primary btn-rounded">Register</a>-->
+                                <a href="https://in.explara.com/e/ieee-icwite-2022" class="btn btn-primary btn-rounded">Register</a>
                             </div>
                         </div>
                     </div>
@@ -833,7 +833,7 @@ tickets
                             <div class="price_features">
                             </div>
                             <div class="price_footer">
-                                <!--<a href="#" class="btn btn-primary btn-rounded">Register</a>-->
+                                <a href="https://in.explara.com/e/ieee-icwite-2022" class="btn btn-primary btn-rounded">Register</a>
                             </div>
                         </div>
                     </div>
@@ -857,7 +857,7 @@ tickets
                             <div class="price_features">
                             </div>
                             <div class="price_footer">
-                                <!--<a href="#" class="btn btn-primary btn-rounded">Register</a>-->
+                                <a href="https://in.explara.com/e/ieee-icwite-2022" class="btn btn-primary btn-rounded">Register</a>
                             </div>
                         </div>
                     </div>
@@ -881,7 +881,7 @@ tickets
                             <div class="price_features">
                             </div>
                             <div class="price_footer">
-                                <!--<a href="#" class="btn btn-primary btn-rounded">Register</a>-->
+                                <a href="https://in.explara.com/e/ieee-icwite-2022" class="btn btn-primary btn-rounded">Register</a>
                             </div>
                         </div>
                     </div>
