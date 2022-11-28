@@ -107,8 +107,8 @@ Buy Tickets Now
             <h3 class="title">
                 Our Sponsors
             </h3>
-            <div class="col-md-3 col-12">
-                <a href="https://www.hpe.com/in/en/home.html"><img class="img-fluid" src="assets/img/sponsors/hpe.png" alt="sponsors"></a>
+            <div class="col-md-12 col-12">
+                <a href=""><img class="img-fluid" src="assets/img/sponsors/sponsors-icwite.png" alt="sponsors"></a>
             </div>
         </div>
     </section>
@@ -905,11 +905,11 @@ tickets
             <h3 class="title">
                 Our Sponsors
             </h3>
-            <div class="row mb-3 mt-3">
+            <!-- <div class="row mb-3 mt-3">
             <div class="col-md-3 col-12">
                 <a href="https://www.hpe.com/in/en/home.html"><img class="img-fluid" src="assets/img/sponsors/hpe.png" alt="sponsors"></a>
             </div>
-            </div>
+            </div> -->
             <div class="row justify-content-center" style="text-align: justify">
                 <p><b>We invite you all to be part of the First Edition of IEEE ICWITE 2022; For further inquiries on
                         Sponsorships, please contact us at: icwite2022@ieeebangalore.org</b></p>
