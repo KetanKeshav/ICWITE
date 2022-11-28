@@ -18,11 +18,9 @@
                 <li class="nav-item">
                     <a class="nav-link " href="oc.php">COMMITTEE</a>
                 </li>
-                
-                    <li class="nav-item">
-                    <a class="nav-link" href="https://attend.ieee.org/icwite-2022/#" target="_blank">Tutorials</a>
-                    </li>
-               
+                <li class="nav-item">
+                <a class="nav-link" href="https://attend.ieee.org/icwite-2022/#" target="_blank">Tutorials</a>
+                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="tracks.php">TRACKS</a>
                 </li>
@@ -34,6 +32,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " href="index.php#registrations" target="blank">REGISTRATIONS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="venue.php">Venue</a>
                 </li>
         </div>
     </div>
