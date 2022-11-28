@@ -33,9 +33,9 @@
                 <li class="nav-item">
                     <a class="nav-link " href="index.php#registrations" target="blank">REGISTRATIONS</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="venue.php">Venue</a>
-                </li>
+                </li> -->
         </div>
     </div>
 </header>
