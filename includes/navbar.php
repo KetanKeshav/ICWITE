@@ -15,41 +15,25 @@
                 <li class="nav-item">
                     <a class="nav-link" href="index.php#aboutus">ABOUT US</a>
                 </li>
-                <!--
-                    <li class="nav-item">
-                    <a class="nav-link " href="#speakers">Speakers</a>
-                    </li>
-                -->
                 <li class="nav-item">
                     <a class="nav-link " href="oc.php">COMMITTEE</a>
                 </li>
-                <!--
+                
                     <li class="nav-item">
-                    <a class="nav-link" href="#schedule">Schedule</a>
+                    <a class="nav-link" href="https://attend.ieee.org/icwite-2022/#">Tutorials</a>
                     </li>
-                -->
+               
                 <li class="nav-item">
                     <a class="nav-link" href="tracks.php">TRACKS</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="papers.php">CALL FOR PAPERS</a>
                 </li>
-                <!--
-                    <li class="nav-item">
-                    <a class="nav-link" href="#schedule">Submissions</a>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link" href="#schedule">Accepted Papers</a>
-                    </li>
-                -->
                 <li class="nav-item">
                     <a class="nav-link" href="index.php#sponsorship">SPONSORSHIPS</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " href="index.php#registrations" target="blank">REGISTRATIONS</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link " href="venue.php" target="blank">VENUE</a>
                 </li>
         </div>
     </div>
