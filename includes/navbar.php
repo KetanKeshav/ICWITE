@@ -20,7 +20,7 @@
                 </li>
                 
                     <li class="nav-item">
-                    <a class="nav-link" href="https://attend.ieee.org/icwite-2022/#">Tutorials</a>
+                    <a class="nav-link" href="https://attend.ieee.org/icwite-2022/#" target="_blank">Tutorials</a>
                     </li>
                
                 <li class="nav-item">
