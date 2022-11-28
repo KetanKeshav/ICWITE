@@ -902,9 +902,9 @@ tickets
                     Sponsorship
                 </h3>
             </div>
-            <h3 class="title">
+            <!-- <h3 class="title">
                 Our Sponsors
-            </h3>
+            </h3> -->
             <!-- <div class="row mb-3 mt-3">
             <div class="col-md-3 col-12">
                 <a href="https://www.hpe.com/in/en/home.html"><img class="img-fluid" src="assets/img/sponsors/hpe.png" alt="sponsors"></a>
